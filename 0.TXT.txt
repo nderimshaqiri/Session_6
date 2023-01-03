@@ -1,2 +1,10 @@
 Cka eshte div?
 -> Eshte element i cili perdoret per t'i gropuar elementet e tjera qe mos te kete nevoje secilin nga ato elemente ti stilizojme (h1, p, h2, a,...). Nuk ka kuptim semantik dhe asgje tjeter pervec grupimit.
+
+1.0. FONTET
+ * Fontet jane by default (te parazgjedhura)
+ * Fontet jane disa lloje; 
+   - Serif
+   - Sans Serif
+   - Script - i lakuar
+   - Monospaced
