@@ -8,3 +8,11 @@ Cka eshte div?
    - Sans Serif
    - Script - i lakuar
    - Monospaced
+
+Menyra 01 permes link tag (stilizimi i fontit online)
+- shkojme ne fonts.google.com  
+- zgjedhim fontin
+- copy codin
+- e vendosim ne head
+- pastaj hapim tag style & copy "CSS rules to specify families" 
+
