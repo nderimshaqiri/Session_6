@@ -1,6 +1,7 @@
 Cka eshte div?
 -> Eshte element i cili perdoret per t'i gropuar elementet e tjera qe mos te kete nevoje secilin nga ato elemente ti stilizojme (h1, p, h2, a,...). Nuk ka kuptim semantik dhe asgje tjeter pervec grupimit.
 
+
 1.0. FONTET
  * Fontet jane by default (te parazgjedhura)
  * Fontet jane disa lloje; 
@@ -20,3 +21,8 @@ Menyra 02 permes import url
 - copy import url
 - vendosim tek stilizimi link 
 - pastaj hapim tag style & copy "CSS rules to specify families" 
+
+Menyra 03 permes file ne pc  
+- brenda elementit style @font-face 
+- shkuajm emrin e fontit te ruajtur ne folderin assets-fonts
+- ne url i tregojm se ku gjendet fonti
