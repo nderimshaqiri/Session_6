@@ -18,4 +18,5 @@ Menyra 01 permes link tag (stilizimi i fontit online)
 
 Menyra 02 permes import url 
 - copy import url
-- vendosim tek stilizimi 
+- vendosim tek stilizimi link 
+- pastaj hapim tag style & copy "CSS rules to specify families" 
