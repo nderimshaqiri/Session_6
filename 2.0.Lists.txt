@@ -4,3 +4,10 @@ ul {list-style-type: square}
 ul {list-style-image:url(./assets/images/PointSS.png)}
 
 2.4. list-style-position: inside; tash pikat i perkasin li-se
+     list-style-position: outside; pikat ne ul  
+
+2.5. Menyra e shkurter ose e permbledhur per 
+     2.1. List Style Type 
+     2.2. List Style Image
+     2.3. List Style Position
+
