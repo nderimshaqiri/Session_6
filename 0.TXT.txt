@@ -10,24 +10,24 @@ Cka eshte div?
    - Script - i lakuar
    - Monospaced
 
-Menyra 01 permes link tag (stilizimi i fontit online)
+A: Menyra 01 permes link tag (stilizimi i fontit online)
 - shkojme ne fonts.google.com  
 - zgjedhim fontin
 - copy codin
 - e vendosim ne head
 - pastaj hapim tag style & copy "CSS rules to specify families" 
 
-Menyra 02 permes import url 
+B: Menyra 02 permes import url 
 - copy import url
 - vendosim tek stilizimi link 
 - pastaj hapim tag style & copy "CSS rules to specify families" 
 
-Menyra 03 permes file ne pc  (praktika ma e mire)
+C: Menyra 03 permes file ne pc  (praktika ma e mire)
 - brenda elementit style @font-face 
 - shkuajm emrin e fontit te ruajtur ne folderin assets-fonts
 - ne url i tregojm se ku gjendet fonti
 
-Menyra 04 permes font-size 
+D: Menyra 04 permes font-family
 - Permes saj mundemi me specifiku 
 
 
