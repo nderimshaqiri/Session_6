@@ -22,7 +22,20 @@ Menyra 02 permes import url
 - vendosim tek stilizimi link 
 - pastaj hapim tag style & copy "CSS rules to specify families" 
 
-Menyra 03 permes file ne pc  
+Menyra 03 permes file ne pc  (praktika ma e mire)
 - brenda elementit style @font-face 
 - shkuajm emrin e fontit te ruajtur ne folderin assets-fonts
 - ne url i tregojm se ku gjendet fonti
+
+Menyra 04 permes font-size 
+- Permes saj mundemi me specifiku 
+
+
+
+
+
+
+
+**  1em = 16px
+    2em = 32px
+    3em = 48px
