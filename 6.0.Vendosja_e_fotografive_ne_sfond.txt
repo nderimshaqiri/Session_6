@@ -1,3 +1,8 @@
 Ekziston mundesi me i permbledh ne nje rresht
 {background:
 bacground-repeat -> e kontrollojme perseritjen e fotos ne sfond
+background-repeat: repeat-x; -> repeat vetem ne boshtin x
+background-position: left bottom; -> e pozicionuar nga majtas ne fund
+background-attachment: fixed; -> e fikson foton e sfondit e bene te palevizshme ose fikse e kur ne shkojme scroll mbetet ne te njejtin vend
+
+Kur foto rrin si ne 6.2. i thon parallax effect
