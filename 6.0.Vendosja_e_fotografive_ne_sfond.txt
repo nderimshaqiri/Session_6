@@ -1,0 +1,3 @@
+Ekziston mundesi me i permbledh ne nje rresht
+{background:
+bacground-repeat -> e kontrollojme perseritjen e fotos ne sfond
