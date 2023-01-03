@@ -4,20 +4,23 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Font import url</title>
+    <title>Font file pc</title>
 
     <style>
 
-        @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,900&family=Seymour+One&display=swap');
+        @font-face {
+            font-family: "Yeon Sung";
+            src: url(./assets/fonts/YeonSung-Regular.ttf);
+        }
 
         .container {
             width: 600px;
             margin: 50px auto;
-
         }
 
-        a {font-family: 'Roboto', sans-serif;font-family: 'Seymour One', sans-serif; }
+        h1 {font-family: "Yeon Sung";}
 
+        
     </style>
 </head>
 <body>
