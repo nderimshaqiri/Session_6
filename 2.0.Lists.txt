@@ -2,3 +2,5 @@ ul ka margina 16 lart dhe poshte by default  dhe padding 40px majtas
 
 ul {list-style-type: square}
 ul {list-style-image:url(./assets/images/PointSS.png)}
+
+2.4. list-style-position: inside; tash pikat i perkasin li-se
