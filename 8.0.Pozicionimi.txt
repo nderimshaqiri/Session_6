@@ -1,0 +1,16 @@
+POZICIONIMI
+
+e ka vleren e paradefinuar static 
+vlerat e tjera qe mund te pranohen jane;
+- relative
+- absolute
+- fixed
+- sticky
+
+Paralelisht me position ne te shumten e rasteve perdoren edhe kater veti tjera qe jane;
+- top
+- right
+- left
+- bottom
+
+Dmth kontrollimi i hapesires nga larte, poshte, djathtas dhe majtas.
