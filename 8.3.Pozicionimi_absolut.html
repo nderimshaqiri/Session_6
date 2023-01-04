@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Position absolute</title>
+    
+    <style>
+
+        .box {
+            border: 1px solid black;
+            width: 610px;
+            padding: 20px;
+            margin: 150px auto;
+            background-color: antiquewhite;
+        }
+
+        span {
+            width: 200px;
+            padding: 20px 0px;
+            color: white;
+            font-size: 34px;
+            display: inline-block;
+            background-color: blueviolet;
+            text-align: center;
+
+        }
+
+        .middle {position: absolute;
+                 top: 20px;
+                 left: 50px;}
+
+    </style>
+
+
+
+</head>
+<body>
+    <div class="box">
+        <span>1</span>
+        <span class="middle">2</span>
+        <span>3</span>
+    </div>
+</body>
+</html>
