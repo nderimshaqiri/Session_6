@@ -1,0 +1,12 @@
+Per cka sherbejne variablat?
+-> Psh nese e kemi nje website ku e ke nje ngjyre primare ta zem e kuqe e ndezur dhe te duhesh ta perdoresh per spane te caktuara, h2, h3, linqe, te bjen me perdore 20-50 here ne kuader te CSS, e kur na bjen me nderru kete ngjyre me nje tjeter atehere duhet 20-50 vende me nderru. Per mos me ndodh kjoe ne CSS3 ka ardhur si feature ka ardhur edhe Defnimi i variablave.
+
+Defnimi i variablave behet ne nje pseudo-element qe quhet :root 
+
+:root -> Rregull eshte qe variablat te fillojne me dy simbole minus (-) dhe emri i variables dhe kur e aplikojme kete rregulle te krijuar (variabel) duhet te mbeshtjellim me funksionin var(--) 
+ background-color: var(--primary-color);
+
+ https://css-tricks.com/complete-guide-to-css-functions/
+
+
+ 
