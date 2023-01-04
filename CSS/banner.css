@@ -1,0 +1,7 @@
+.banner { font-size: 40px;
+    background-color: steelblue;
+    padding: 20px;
+    position: sticky;
+    top: 0;  
+
+    color: var(--primary-color);}
