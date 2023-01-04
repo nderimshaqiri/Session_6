@@ -1,0 +1,3 @@
+Komanda @import mundeson me importu CSS ne nje CSS tjeter. 
+
+Benefiti i @import na mundeson me bo separation of concern dmth mundet me i nda gjerat, na mundeson variablat me i lon diku tjeter 
