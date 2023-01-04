@@ -1,3 +1,5 @@
+@import url(./Variables.css);
+
 .banner { font-size: 40px;
     background-color: steelblue;
     padding: 20px;
