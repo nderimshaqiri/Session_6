@@ -1,5 +1,5 @@
  Ekzistojnë disa mënyra të paraqitjes së elementeve:
-• Block -> elementi shtrihet ne komplet width e view port-it
+• Block -> elementi shtrihet ne komplet width e viewport-it
 • Inline -> elementi zen hapesire aq sa e ka permbajtjen
 • Inline block -> ka disa rregulla te tjera
 
@@ -12,10 +12,10 @@ Krahasuar me display:block, ndryshimi kryesor është se display:inline-block nu
 prof: 
 dallimi no1. Kur e kemi inline nuk i perfill (nuk aplikohen) margjinat larte dhe poshte 
 dallimi no2. Kur e kemi inline vetia width dhe height nuk aplikohen.
-dallimi no3. Kur e kemi inline-block (vs block) i perfill width dhe height , i perfill padding dhe margin mirepo nuk vendos me automatizem new-line mbrapa vetes sepse nuk e rezervon komplet hapesiren e view port-it   
+dallimi no3. Kur e kemi inline-block (vs block) i perfill width dhe height , i perfill padding dhe margin mirepo nuk vendos me automatizem new-line mbrapa vetes sepse nuk e rezervon komplet hapesiren e viewport-it   
 
 Kur e kemi display:inline padding vlene per anet ...
 
-Inline del jashte kornizave te view port 
+Inline del jashte kornizave te viewport 
 
 S7- 2:07:00
