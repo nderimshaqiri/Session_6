@@ -79,3 +79,28 @@ background-position: left bottom; -> e pozicionuar nga majtas ne fund
 background-attachment: fixed; -> e fikson foton e sfondit e bene te palevizshme ose fikse e kur ne shkojme scroll mbetet ne te njejtin vend
 
 Kur foto rrin si ne 6.2. i thon parallax effect
+
+
+
+7.0. MENYRAT E PARAQITJES SE ELEMENTEVE
+Ekzistojnë disa mënyra të paraqitjes së elementeve:
+• Block -> elementi shtrihet ne komplet width e viewport-it
+• Inline -> elementi zen hapesire aq sa e ka permbajtjen
+• Inline block -> ka disa rregulla te tjera
+
+krahasuar me display:inline, ndryshimi kryesor është se display:inline-block ju lejon të vendosni një gjerësi dhe lartësi në element.
+
+Gjithashtu, me display:inline-block, margins/paddings e sipërme dhe të poshtme respektohen, por me display:inline nuk respektohen.
+
+Krahasuar me display:block, ndryshimi kryesor është se display:inline-block nuk shton një ndërprerje të linjës pas elementit, kështu që elementi mund të ulet pranë elementëve të tjerë.
+
+prof: 
+dallimi no1. Kur e kemi inline nuk i perfill (nuk aplikohen) margjinat larte dhe poshte 
+dallimi no2. Kur e kemi inline vetia width dhe height nuk aplikohen.
+dallimi no3. Kur e kemi inline-block (vs block) i perfill width dhe height , i perfill padding dhe margin mirepo nuk vendos me automatizem new-line mbrapa vetes sepse nuk e rezervon komplet hapesiren e viewport-it   
+
+Kur e kemi display:inline padding vlene per anet ...
+
+Inline del jashte kornizave te viewport 
+
+S7- 2:07:00
