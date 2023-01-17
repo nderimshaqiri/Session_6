@@ -104,3 +104,42 @@ Kur e kemi display:inline padding vlene per anet ...
 Inline del jashte kornizave te viewport 
 
 S7- 2:07:00
+
+
+
+
+8.0. POZICIONET
+POZICIONIMI
+
+e ka vleren e paradefinuar static 
+vlerat e tjera qe mund te pranohen jane;
+- relative
+- absolute
+- fixed
+- sticky
+
+Paralelisht me position ne te shumten e rasteve perdoren edhe kater veti tjera qe jane;
+- top
+- right
+- left
+- bottom
+
+Dmth kontrollimi i hapesires nga larte, poshte, djathtas dhe majtas.
+
+Nuk perfillent vetit top, bottom right dhe left kur e kemi .middle {position: static;}
+
+<span> per te shenuar nje pjese te txt ose nje pjese te nje doc, stilizohe lehte me CSS.
+
+Kur e kemi nje prind dhe brenda tij kemi elemente, kur perdoret position-relative levizja vlen ne raport me prindin, dmth ne rastin tone prindi eshte box me ngjyre "antiquewhite" ndersa femijet jane 1,2 dhe 3. 
+Kur i japim position-relative dhe i perdorim top, left, bottom dhe right ato vlejn ne raport me prindin ose me mire te themi me pozicionin ku ka qene elementi.
+
+position: absolute -> atehere vetit top, left, bottom dhe right vlejn ne raport me viewport-in. Pra eshte largu nga viewport-i 20px nga lart dhe 50pc nga ana e majte.
+
+Centrimi ne mes 8.4.;  bottom: 350px; 
+                       left: 50%;
+                       margin-left: -100px;
+
+position: fixed; elementi nuk leviz, conenti levize ndersa kjo mbi te. Pra elementi qendron ne mes pavarsisht levizjes se faqes, ndersa e kunderta eshte me absolute se qendron aty..
+
+position: sticky; nese elementi eshte ne mes atehere kur shkojme poshte ai ngjitet larte si tavan dhe nuk leviz me, pra pavarsisht sa shume poshte shkojme.
+
