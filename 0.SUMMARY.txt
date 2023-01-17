@@ -55,3 +55,27 @@ ul {list-style-image:url(./assets/images/PointSS.png)}
      Pra, bëhet kombinim i tri vetive të mësipërme në një rresht.
 
 
+
+3.0.STILIZIMI I TABELAVE 
+3.1. Tabelat e zbrazeta
+     A deshirojme te shfaqen apo fshehen tablat-ceculat e zbrazeta 
+     Shfaqur: table {empty-cells: show;} (by default)
+     Fshehur: table {empty-cells: hide;}
+
+3.2.2. E kemi largu kornizen e tabeles komplet
+
+
+* margin nuk mundemi me i dhon ne tabele
+
+
+
+
+6.0.VENDOSJA E FOTO NE SFOND
+Ekziston mundesi me i permbledh ne nje rresht
+{background:
+bacground-repeat -> e kontrollojme perseritjen e fotos ne sfond
+background-repeat: repeat-x; -> repeat vetem ne boshtin x
+background-position: left bottom; -> e pozicionuar nga majtas ne fund
+background-attachment: fixed; -> e fikson foton e sfondit e bene te palevizshme ose fikse e kur ne shkojme scroll mbetet ne te njejtin vend
+
+Kur foto rrin si ne 6.2. i thon parallax effect
