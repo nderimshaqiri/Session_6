@@ -1,5 +1,0 @@
-Dukshmeria e elementeve realizohet permes vetis visibility. Pranon disa vlera po per ne te rendesishme jane visible dhe hidden
-
-visibility: hidden; -> e fshehe elementin mirepo e mban te rezervuar hapesiren ndersa nese i themi display: none; e fshehe elementin por nuk e mban hapesiren e rezervuar. 
-
-visibility: visible; e fshehe elementin mirepo e mban te rezervuar hapesiren ndersa kur kalojme siper me mause ajo shfaqet
