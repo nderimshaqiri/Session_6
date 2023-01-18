@@ -143,3 +143,11 @@ position: fixed; elementi nuk leviz, conenti levize ndersa kjo mbi te. Pra eleme
 
 position: sticky; nese elementi eshte ne mes atehere kur shkojme poshte ai ngjitet larte si tavan dhe nuk leviz me, pra pavarsisht sa shume poshte shkojme.
 
+
+
+9.0. DUKSHMERIA E ELEMENTEVE
+Dukshmeria e elementeve realizohet permes vetis visibility. Pranon disa vlera po per ne te rendesishme jane visible dhe hidden
+
+visibility: hidden; -> e fshehe elementin mirepo e mban te rezervuar hapesiren ndersa nese i themi display: none; e fshehe elementin por nuk e mban hapesiren e rezervuar. 
+
+visibility: visible; e fshehe elementin mirepo e mban te rezervuar hapesiren ndersa kur kalojme siper me mause ajo shfaqet
